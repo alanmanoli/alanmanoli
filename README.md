@@ -3,7 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul Virtual  
 💻 Sócio-proprietário da **E-Domínios** – empresa de registro de domínios e hospedagem de sites  
 🚀 Entusiasta de tecnologia, sempre explorando novas ferramentas e linguagens  
-📍 43 anos, apaixonado por aprender e compartilhar conhecimento  
+📍 Apaixonado por aprender e compartilhar conhecimento  
 
 ---
 
