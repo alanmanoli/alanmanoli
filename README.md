@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Alan!
 
-<!--
-**alanmanoli/alanmanoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul Virtual  
+💻 Sócio-proprietário da **E-Domínios** – empresa de registro de domínios e hospedagem de sites  
+🚀 Entusiasta de tecnologia, sempre explorando novas ferramentas e linguagens  
+📍 43 anos, apaixonado por aprender e compartilhar conhecimento  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 O que estou aprendendo atualmente:
+- Lógica de programação e algoritmos  
+- Desenvolvimento web (HTML, CSS, JavaScript)  
+- Fundamentos de banco de dados  
+- Noções de cloud e hospedagem  
+
+---
+
+## 🎯 Objetivos
+- Construir meus primeiros projetos em **GitHub**  
+- Aprimorar habilidades em **desenvolvimento fullstack**  
+- Conectar-me com outros desenvolvedores e aprender em comunidade  
+
+---
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/alanpicoralmanoli)  
+- Email: **alan@e-dominios.com.br**  
